@@ -1,0 +1,1 @@
+const INPUT_YOUR_NAME = 'Inputkan Nama Kamu';
